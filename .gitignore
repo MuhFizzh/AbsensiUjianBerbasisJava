@@ -1,0 +1,6 @@
+target/
+dependency-reduce-pom.xml
+nbproject/private/
+.idea/
+*.iml
+*.log
