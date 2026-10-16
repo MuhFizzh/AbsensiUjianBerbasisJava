@@ -3,4 +3,5 @@ dependency-reduce-pom.xml
 nbproject/private/
 .idea/
 *.iml
-*.log
+*.logdependency-reduce-pom.xml
+dependency-reduced-pom.xml
